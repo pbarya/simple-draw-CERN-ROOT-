@@ -1,5 +1,6 @@
 # simple-draw-CERN-ROOT-
-Interactive drawing,  need cern root installed 
+Interactive drawing,  assuming cern root installed. 
+  
 This is simple drawing code. Can draw simple 2D graph and histogram using any data file. This has some 
 interactive features and it can be used by a layman. 
 You need to do the following (Unix): - 
