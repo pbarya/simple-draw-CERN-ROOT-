@@ -1,5 +1,5 @@
 {
-// this is a code to draw columns 
+// this is a code to draw 2D graphs and histograms  
 // Author: Prabhakar Tiwari 
 // Date: 16 Jan 2018
 char tit[100],file[1000],line[1000],str[100];
